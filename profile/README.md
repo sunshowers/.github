@@ -1,4 +1,4 @@
-Hi, I'm Rain 🌦️, and welcome to my GitHub profile. Check out my [website](https://sunshowers.io/), where you can read my blog posts, learn more [about me](https://sunshowers.io/about/) and my [professional and hobby work](https://sunshowers.io/work/).
+Hi, I'm Rain 🌦️, and welcome to my GitHub profile. Check out my [website](https://sunshowers.io/), where you can read my blog posts, and learn more [about me](https://sunshowers.io/about/) or my [professional and hobby work](https://sunshowers.io/work/).
 
 Some of the blog posts I'm most proud of:
 
