@@ -2,11 +2,11 @@ Hi, I'm Rain 🌦️, and welcome to my GitHub profile. Check out my [website](h
 
 Some of the blog posts I'm most proud of:
 
-- [iddqd, or the hardest kind of unsafe Rust](https://oxide.computer/blog/iddqd-unsafe)
+- [iddqd, or the hardest kind of unsafe Rust](https://oxide.computer/blog/iddqd-unsafe):
   How Oxide's Rust collections library (authored by me) defends against adversarial trait implementations.
-- [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust)
+- [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust):
   Correctness in the face of cancellations: my RustConf 2025 talk, in written form.
-- [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt)
+- [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt):
   A jargon-free, practical explanation of monads as a design pattern.
 
 Some of my Rust-related tutorial content:
